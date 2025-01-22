@@ -1,4 +1,4 @@
-# 🌟 Dossiê de Tecnologia
+# 🌟 PeixinhoLab
 
 Bem-vindo ao meu repositório de **estudos**, **anotações** e **projetos** relacionados ao desenvolvimento de software! Este espaço é o meu ponto central de **aprendizado contínuo** e **evolução profissional**. 
 
@@ -8,7 +8,6 @@ Você pode acessar o meu Dossiê de Tecnologia diretamente no Notion através [*
 
 ## 🔍 Curiosidade
 O dossiê foi projetado com um sistema de interconexão de conteúdos: cada artigo se relaciona com outros, seja como uma continuação, uma referência cruzada ou um complemento de conceitos. Isso cria um ciclo de aprendizado profundo, onde cada nova leitura expande e reforça o entendimento dos tópicos abordados.
-
 
 ## 📚 O que você encontrará aqui
 - **Rede e Internet**
