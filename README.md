@@ -4,7 +4,12 @@ Bem-vindo ao meu repositório de **estudos**, **anotações** e **projetos** rel
 
 Cada conteúdo aqui presente é fruto de experimentação, pesquisa e aprimoramento contínuo. A cada revisão, busco tornar este dossiê mais completo, estruturado e aprofundado.
 
-Você pode acessar o meu Dossiê de Tecnologia diretamente no Notion através [**deste link**](https://yuripeixinho.notion.site/softwares-77d94a6b7153434283fb78d9e616f138?pvs=74).
+Existem duas formas de acessar, pelo Notion e pelo DevTo
+- [Notion](https://yuripeixinho.notion.site/softwares-77d94a6b7153434283fb78d9e616f138?pvs=74)
+- [DevTo](https://dev.to/yuripeixinho)
+
+Você pode acessar o meu Dossiê de Tecnologia diretamente no Notion através [**deste link**] 
+
 
 ## 🔍 Curiosidade
 O dossiê foi projetado com um sistema de interconexão de conteúdos: cada artigo se relaciona com outros, seja como uma continuação, uma referência cruzada ou um complemento de conceitos. Isso cria um ciclo de aprendizado profundo, onde cada nova leitura expande e reforça o entendimento dos tópicos abordados.
