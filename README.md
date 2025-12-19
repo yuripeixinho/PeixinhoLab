@@ -22,7 +22,7 @@ O dossiê foi projetado com um sistema de interconexão de conteúdos: cada arti
 - **Devops e Configuração**
 
 ## 🔧 Como este Dossiê pode ser útil
-- 📖 Uma referência contínua — Sempre que preciso revisar um conceito ou implementação, encontro aqui um material confiável e estruturado.
-- 🚀 Uma forma de consolidar aprendizado — Ao escrever, reforço meu conhecimento e identifico lacunas que precisam ser preenchidas.
-- 🤝 Uma maneira de compartilhar conhecimento — Disponibilizar este conteúdo permite que outras pessoas também se beneficiem e colaborem.
-- 📌 Um histórico da minha evolução profissional — Com o tempo, vejo como minhas ideias, abordagens e habilidades foram se aprimorando.
+- 📖 Uma referência contínua: Sempre que preciso revisar um conceito ou implementação, encontro aqui um material confiável e estruturado.
+- 🚀 Uma forma de consolidar aprendizado: Ao escrever, reforço meu conhecimento e identifico lacunas que precisam ser preenchidas.
+- 🤝 Uma maneira de compartilhar conhecimento: Disponibilizar este conteúdo permite que outras pessoas também se beneficiem e colaborem.
+- 📌 Um histórico da minha evolução profissional: Com o tempo, vejo como minhas ideias, abordagens e habilidades foram se aprimorando.
